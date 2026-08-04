@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/3D/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/3D/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/3D/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Spatial Fit Pro｜3D 疊塔、裝箱與包裝模擬器"}],["$","meta","1",{"name":"description","content":"以真實毫米比例配置箱件疊塔、判斷裝箱可行性，並上傳圖稿預覽三封袋與八面封袋成品。"}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/3D/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/3D/favicon.svg"}],["$","$L5","5",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Iu-wALGShJzPhbl-X5sGx"}
